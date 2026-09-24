@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="64dp"
+    android:height="48dp"
+    android:viewportWidth="64"
+    android:viewportHeight="48">
+
+    <!-- Fundo azul da União Europeia -->
+    <path
+        android:fillColor="#003399"
+        android:pathData="M0,0h64v48h-64z" />
+
+    <!-- 12 estrelas -->
+    <path
+        android:fillColor="#FFCC00"
+        android:pathData="M32,8
+            l1.2,2.5 2.8,0.4 -2,2 0.5,2.8 -2.5,-1.3 -2.5,1.3 0.5,-2.8 -2,-2 2.8,-0.4z" />
+
+    <path
+        android:fillColor="#FFCC00"
+        android:pathData="M44,11.2
+            l1.2,2.5 2.8,0.4 -2,2 0.5,2.8 -2.5,-1.3 -2.5,1.3 0.5,-2.8 -2,-2 2.8,-0.4z" />
+
+    <path
+        android:fillColor="#FFCC00"
+        android:pathData="M52.8,20
+            l1.2,2.5 2.8,0.4 -2,2 0.5,2.8 -2.5,-1.3 -2.5,1.3 0.5,-2.8 -2,-2 2.8,-0.4z" />
+
+    <path
+        android:fillColor="#FFCC00"
+        android:pathData="M52.8,32
+            l1.2,2.5 2.8,0.4 -2,2 0.5,2.8 -2.5,-1.3 -2.5,1.3 0.5,-2.8 -2,-2 2.8,-0.4z" />
+
+    <path
+        android:fillColor="#FFCC00"
+        android:pathData="M44,40.8
+            l1.2,2.5 2.8,0.4 -2,2 0.5,2.8 -2.5,-1.3 -2.5,1.3 0.5,-2.8 -2,-2 2.8,-0.4z" />
+
+    <path
+        android:fillColor="#FFCC00"
+        android:pathData="M32,44
+            l1.2,2.5 2.8,0.4 -2,2 0.5,2.8 -2.5,-1.3 -2.5,1.3 0.5,-2.8 -2,-2 2.8,-0.4z" />
+
+    <path
+        android:fillColor="#FFCC00"
+        android:pathData="M20,40.8
+            l1.2,2.5 2.8,0.4 -2,2 0.5,2.8 -2.5,-1.3 -2.5,1.3 0.5,-2.8 -2,-2 2.8,-0.4z" />
+
+    <path
+        android:fillColor="#FFCC00"
+        android:pathData="M11.2,32
+            l1.2,2.5 2.8,0.4 -2,2 0.5,2.8 -2.5,-1.3 -2.5,1.3 0.5,-2.8 -2,-2 2.8,-0.4z" />
+
+    <path
+        android:fillColor="#FFCC00"
+        android:pathData="M11.2,20
+            l1.2,2.5 2.8,0.4 -2,2 0.5,2.8 -2.5,-1.3 -2.5,1.3 0.5,-2.8 -2,-2 2.8,-0.4z" />
+
+    <path
+        android:fillColor="#FFCC00"
+        android:pathData="M20,11.2
+            l1.2,2.5 2.8,0.4 -2,2 0.5,2.8 -2.5,-1.3 -2.5,1.3 0.5,-2.8 -2,-2 2.8,-0.4z" />
+
+
+
+</vector>
