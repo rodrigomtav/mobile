@@ -39,6 +39,7 @@ Novas pastas serão adicionadas conforme o desenvolvimento das próximas aulas.
 * Gradle
 * IntelliJ IDEA
 * JDK
+* AndroidStudio
 
 ## Conteúdos
 
