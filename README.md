@@ -11,19 +11,24 @@ Os exercícios são organizados por aula e mantidos em uma estrutura única de p
 ## Estrutura
 
 ```text
-src/
-└── main/
-    └── kotlin/
-        ├── aula01/
-        │   ├── Aula1_Atividade1.kt
-        │   ├── ConvertendoTeclado.kt
-        │   └── Exemplo1.kt
-        │
-        ├── aula02/
-        │   └── ...
-        │
-        └── aula03/
-            └── ...
+kotlin/
+└──src/
+   └── main/
+      └── kotlin/
+          ├── aula01/
+          │   ├── Aula1_Atividade1.kt
+          │   ├── ConvertendoTeclado.kt
+          │   └── Exemplo1.kt
+          │
+          ├── aula02/
+          │   └── ...
+          │
+          └── aula03/
+              └── ...
+
+android
+└──ConversorMoeda
+
 ```
 
 Novas pastas serão adicionadas conforme o desenvolvimento das próximas aulas.
