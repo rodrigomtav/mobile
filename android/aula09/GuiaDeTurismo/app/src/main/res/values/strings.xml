@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">Guia de Turismo</string>
+
+    <string name="titulo">Guia de Turismo</string>
+    <string name="descricao_app">Conheça destinos em 10 estados do Brasil. Escolha um estado na lista para ver o pacote de viagem, hotel, telefone e como chegar.</string>
+    <string name="desenvolvido_por">Desenvolvido por: Rodrigo Taveira</string>
+
+    <string name="bandeira">Bandeira do estado</string>
+    <string name="pacote">Pacote de viagem</string>
+    <string name="hotel">Hotel</string>
+    <string name="telefone">Telefone</string>
+    <string name="como_chegar">Como chegar</string>
+    <string name="enviar_mensagem">Enviar mensagem</string>
+
+    <string name="email">contato@ifsp.edu.br</string>
+    <string name="assunto_email">Informações sobre</string>
+
+    <string-array name="nomes">
+        <item>Acre</item>
+        <item>Alagoas</item>
+        <item>Amapá</item>
+        <item>Amazonas</item>
+        <item>Bahia</item>
+        <item>Ceará</item>
+        <item>Espírito Santo</item>
+        <item>Minas Gerais</item>
+        <item>Paraíba</item>
+        <item>Pernambuco</item>
+    </string-array>
+
+    <string-array name="descricoes">
+        <item>Rio Branco e a floresta amazônica</item>
+        <item>Maceió e as piscinas naturais</item>
+        <item>Macapá e o Marco Zero do Equador</item>
+        <item>Manaus e o Encontro das Águas</item>
+        <item>Salvador e o Pelourinho</item>
+        <item>Fortaleza e Jericoacoara</item>
+        <item>Vitória e Guarapari</item>
+        <item>Ouro Preto e as cidades históricas</item>
+        <item>João Pessoa e a Ponta do Seixas</item>
+        <item>Recife, Olinda e Porto de Galinhas</item>
+    </string-array>
+
+    <string-array name="pacotes">
+        <item>4 dias e 3 noites em Rio Branco com city tour. A partir de R$ 2.190,00</item>
+        <item>5 dias e 4 noites em Maceió com passeio a Maragogi. A partir de R$ 2.390,00</item>
+        <item>4 dias e 3 noites em Macapá com visita ao Marco Zero. A partir de R$ 2.090,00</item>
+        <item>5 dias e 4 noites em Manaus com passeio de barco. A partir de R$ 2.890,00</item>
+        <item>5 dias e 4 noites em Salvador com city tour. A partir de R$ 2.190,00</item>
+        <item>5 dias e 4 noites em Fortaleza com passeio de buggy. A partir de R$ 2.490,00</item>
+        <item>4 dias e 3 noites em Vitória com passeio em Guarapari. A partir de R$ 1.790,00</item>
+        <item>4 dias e 3 noites em Ouro Preto com visita às igrejas. A partir de R$ 1.690,00</item>
+        <item>4 dias e 3 noites em João Pessoa com passeio de barco. A partir de R$ 1.890,00</item>
+        <item>5 dias e 4 noites em Recife com passeio em Porto de Galinhas. A partir de R$ 2.290,00</item>
+    </string-array>
+
+    <string-array name="hoteis">
+        <item>Hotel Floresta</item>
+        <item>Hotel Pajuçara</item>
+        <item>Hotel Equador</item>
+        <item>Hotel Rio Negro</item>
+        <item>Hotel Pelourinho</item>
+        <item>Hotel Iracema</item>
+        <item>Hotel Praia Capixaba</item>
+        <item>Pousada Vila Rica</item>
+        <item>Hotel Tambaú</item>
+        <item>Hotel Boa Viagem</item>
+    </string-array>
+
+    <string-array name="telefones">
+        <item>(68) 3555-0101</item>
+        <item>(82) 3555-0102</item>
+        <item>(96) 3555-0103</item>
+        <item>(92) 3555-0104</item>
+        <item>(71) 3555-0105</item>
+        <item>(85) 3555-0106</item>
+        <item>(27) 3555-0107</item>
+        <item>(31) 3555-0108</item>
+        <item>(83) 3555-0109</item>
+        <item>(81) 3555-0110</item>
+    </string-array>
+
+    <string-array name="como_chegar">
+        <item>De avião até o aeroporto de Rio Branco ou de carro.</item>
+        <item>De avião até o aeroporto de Maceió ou de carro.</item>
+        <item>De avião até o aeroporto de Macapá ou de barco saindo de Belém.</item>
+        <item>De avião até o aeroporto de Manaus ou de barco pelo rio.</item>
+        <item>De avião até o aeroporto de Salvador ou de carro.</item>
+        <item>De avião até o aeroporto de Fortaleza ou de carro.</item>
+        <item>De avião até o aeroporto de Vitória ou de carro.</item>
+        <item>De avião até Belo Horizonte e depois de carro até Ouro Preto.</item>
+        <item>De avião até o aeroporto de João Pessoa ou de carro.</item>
+        <item>De avião até o aeroporto do Recife ou de carro.</item>
+    </string-array>
+
+    <string-array name="enderecos">
+        <item>Rio Branco, AC</item>
+        <item>Maceió, AL</item>
+        <item>Macapá, AP</item>
+        <item>Manaus, AM</item>
+        <item>Salvador, BA</item>
+        <item>Fortaleza, CE</item>
+        <item>Vitória, ES</item>
+        <item>Ouro Preto, MG</item>
+        <item>João Pessoa, PB</item>
+        <item>Recife, PE</item>
+    </string-array>
+</resources>

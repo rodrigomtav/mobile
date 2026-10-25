@@ -1,12 +1,12 @@
-# Exercícios de Kotlin
+# Exercícios de Kotlin e Android
 
 Repositório destinado às atividades da disciplina de Desenvolvimento Mobile do curso de Análise e Desenvolvimento de Sistemas do IFSP - Campus Araraquara, sob orientação do professor Henrique Galati.
 
 ## Descrição
 
-Este projeto reúne os exercícios desenvolvidos ao longo das aulas, utilizando Kotlin para praticar conceitos fundamentais de programação.
+Este projeto reúne os exercícios desenvolvidos ao longo das aulas, utilizando Kotlin para praticar conceitos fundamentais de programação e, depois, para desenvolver aplicativos Android.
 
-Os exercícios são organizados por aula e mantidos em uma estrutura única de projeto.
+Os exercícios são organizados por aula. A pasta `kotlin/` é um único projeto com os exercícios de linguagem, e a pasta `android/` tem um projeto do Android Studio para cada atividade.
 
 ## Estrutura
 
@@ -20,14 +20,14 @@ kotlin/
           │   ├── ConvertendoTeclado.kt
           │   └── Exemplo1.kt
           │
-          ├── aula02/
-          │   └── ...
-          │
-          └── aula03/
-              └── ...
+          └── aula04/
+              └── Aula04_Ex_POO_Loja.kt
 
-android
-└──ConversorMoeda
+android/
+├── aula06/
+│   └── ConversorMoeda/
+└── aula09/
+    └── GuiaDeTurismo/
 
 ```
 
@@ -52,7 +52,12 @@ Entre os conceitos praticados no projeto estão:
 * Estruturas de repetição
 * Funções
 * Tratamento de entradas inválidas
+* Programação orientada a objetos
 * Organização de projetos Kotlin
+* Activities e layouts em XML
+* ListView com Adapter personalizado
+* Intents para abrir outras telas e outros aplicativos (discador, mapa e e-mail)
+* Uso do strings.xml para os textos do aplicativo
 
 ## Execução
 
@@ -62,10 +67,12 @@ Clone o repositório:
 git clone https://github.com/rodrigomtav/mobile.git
 ```
 
-Entre na pasta do projeto:
+### Exercícios de Kotlin
+
+Entre na pasta `kotlin`:
 
 ```bash
-cd mobile
+cd mobile/kotlin
 ```
 
 O projeto pode ser aberto no IntelliJ IDEA e executado através das funções `main()` presentes nos arquivos de cada aula.
@@ -81,6 +88,10 @@ No Windows:
 ```bash
 gradlew.bat build
 ```
+
+### Projetos Android
+
+Cada pasta dentro de `android/` é um projeto separado. No Android Studio, use **File > Open** e selecione a pasta do projeto desejado, por exemplo `android/aula09/GuiaDeTurismo`. Depois é só executar em um emulador ou celular.
 
 ## Status
 
